@@ -1,0 +1,19 @@
+{
+  "name": "react-2.0",
+  "version": "1.0.0",
+  "description": "react development 2.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallav1403/react-2.0.git"
+  },
+  "author": "pallav kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallav1403/react-2.0/issues"
+  },
+  "homepage": "https://github.com/pallav1403/react-2.0#readme"
+}
